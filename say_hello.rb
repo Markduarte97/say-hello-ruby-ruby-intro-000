@@ -1,5 +1,5 @@
-def say_hello(name)
-  puts "Hello, #{name}"
+def say_hello
+  puts "Hello"
 end
 
-say_hello(Kent Beck)
+say_hello
